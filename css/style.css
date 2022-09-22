@@ -884,14 +884,12 @@ footer p{
     }
     /* about */
     #about{
-        margin-top:700px;
-        padding-top: 80px;
+        /* margin-top:700px; */
+        margin-top: 65vh;
+        padding-top: 3vh;
     }
     .section{
         height: 1080px;
-    }
-    #about_cont{
-        margin-top: 40px;
     }
      /* projects */
      #projects{
@@ -950,7 +948,8 @@ footer p{
         /* border: 1px solid blue; */
         /* margin-top: 220px; */
         line-height:40px;
-        margin-top: 420px;
+        /* margin-top: 420px; */
+        margin-top: 40vh;
         color: #000;
         text-shadow: none;
     }
